@@ -1,5 +1,16 @@
-<h1>StarAdmin-Free-Bootstrap-Admin-Template</h1>
-Star Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
+# [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) - Free Bootstrap Admin Template
+
+> [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
+
+---
+> In love with this design? Check out coded versions in Flask and Django, provided by [AppSeed](https://appseed.us/?ref=gh-adm-staradmin)
+
+- [Star Admin - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin), product page
+- [Star Admin - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-staradmin), product page
+
+Both starters are released under the MIT License on Github with active support via Email, Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) 24/7 LIVE Service.
+
+---
 
 Star Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
 
