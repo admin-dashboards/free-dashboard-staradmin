@@ -16,11 +16,11 @@ Star Admin is packed with all the features that fit your needs but not cramped w
 
 Although the template has a design like none other, it is easily customizable to suit your requirements. Star Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
 
-<h1>Demo</h1>
+<h2>Star Admin - Demo</h2>
 
 <hr style="margin-bottom: 30px">
 
-[![N|Solid](screenshot.jpg)](http://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html)
+[![Star Admin - Free Bootstrap template, animated presentation](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-staradmin/master/media/free-dashboard-staradmin-intro.gif)](http://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html)
 
 <h1>Credits:</h1>
 
