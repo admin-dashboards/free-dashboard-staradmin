@@ -61,7 +61,7 @@
     "url": "git+ssh://git@github.com/puse/icons-feather.git"
   },
   "scripts": {
-    "build": "make build",
+    "build": "node init && make build",
     "prepublish": "make build-dev"
   },
   "style": "feather.css",

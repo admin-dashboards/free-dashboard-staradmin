@@ -18,7 +18,7 @@ Although the template has a design like none other, it is easily customizable to
 
 ## [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) - Demo
 
-[![Star Admin - Free Bootstrap template, animated presentation](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-staradmin/master/media/free-dashboard-staradmin-intro.gif)](http://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/?ref=23)
+![Star Admin - Free Bootstrap template, animated presentation](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-staradmin/master/media/free-dashboard-staradmin-intro.gif)
 
 <h1>Credits:</h1>
 
